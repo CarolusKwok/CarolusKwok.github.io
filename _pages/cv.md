@@ -9,14 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* Ph.D student in The University of Hong Kong
+* Co-founder of [Cooling Neighbours](https://www.instagram.com/cooling.neighbours.hk/)
+
 Education
 ======
-* Ph.D in The University of Hong Kong (expected)
-* BSc in The University of Hong Kong (2023)
+<div class="hanging-indent"></div>
+* **Present** – Ph.D., Geography, The University of Hong Kong
+Ph.D. Thesis: *Pharmaceutical Mixtures as Overlooked Climate-Relevant Contaminants: Microbial Pathways Governing Greenhouse-Gas Emissions in Aquatic Ecosystems*. Supervisor: [Prof. RAN, Lishan](https://geog.hku.hk/ls-ran)
+* **1994** – B.Sc., Science with First Class Honours, The University of Hong Kong
+	- CGPA: 3.66
+	- Major in Environmental Science
+	- Minored in Ecology & Biodiversity and Earth Sciences
 
-Work and Research Experience
+Awards
 ======
-* 
+<div class="deep-hanging-indent"></div>
+* **2022** –	Mak Pak Chiu Mak Soo Lai Hing Memorial Scholarship
+* **2021** –	Dean's Honours List, University of Hong Kong
+* **2019** –	HKU SPACE Foundation Scholarships
+* **2019** –	Principal's Honours List, HKU SPACE Community College
+* **2018** –	Principal's Honours List, HKU SPACE Community College
 
 Publications
 ======
@@ -24,14 +39,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
 
-Skills
+Work and Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
 
 Services and leadership
 ======
+
+Skills and Interest
+======
+* Computer analysis
+  * R
+  * Python
+  * Fortran
+  * C++
+* Photography
+* Skill 3
+
+
