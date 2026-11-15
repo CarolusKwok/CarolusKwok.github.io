@@ -46,8 +46,8 @@ Work and Research Experience
 	- Presented preliminary research results at the Climate Adaptation & Resilience Conference 2026
 	- Learnt advocacy methods for climate justice and other environmental issues through on-site projects
 * **2025 - 2026** -	Research Assistant, Hong Kong Metropolitan University
-	- Investigate the impact of various microplastic types on locally sourced zooplanktons and their regulatory control of common red-tide algal species, using epifluorescence microscopy, metabarcoding, and GC-MS/MS.
-	- Analyse microbial diversity and functionality between western and southern waters of Hong Kong using shotgun metagenomics and the QIIME2 pipeline
+	- Investigated the impact of various microplastic types on locally sourced zooplanktons and their regulatory control of common red-tide algal species, using epifluorescence microscopy, metabarcoding, and GC-MS/MS.
+	- Analysed microbial diversity and functionality between western and southern waters of Hong Kong using shotgun metagenomics and the QIIME2 pipeline
 * **2025 - 2026** -	Research Assistant (PT), The University of Hong Kong
 * **2024 - 2025** -	Research Assistant (FT), The University of Hong Kong
 	- Developed a HKU SEED Fund for PI Research Grant proposal (HKD 110,760, #2402101681) and led its investigation into the impact of water buffalo, biocultural revitalisation, and terrestrialization on wetland biogeochemical cycling and ecosystem function, using chemical analyses and multispectral drones
@@ -106,7 +106,7 @@ Services and leadership
 
 Skills and Interest
 ======
-* Collaborative Field- and Lab- based Research
+* Collaborative, Multidisciplinary Field- and Lab- based Research
 * Data analysis
 	- R/ Python/ Fortran/ C++
 	- QIIME2, Agisoft Metashape, Google Earth Engine, QGIS
