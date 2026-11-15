@@ -36,7 +36,9 @@ Education
 ======
 <div class="hanging-indent"></div>
 * **Present** – Ph.D., Geography, The University of Hong Kong
+	
 	Ph.D. Thesis: *Pharmaceutical Mixtures as Overlooked Climate-Relevant Contaminants: Microbial Pathways Governing Greenhouse-Gas Emissions in Aquatic Ecosystems*. 
+	
 	Supervisor: [Prof. RAN, Lishan](https://geog.hku.hk/ls-ran)
 * **2023** – B.Sc., Science with First Class Honours, The University of Hong Kong
 	CGPA: 3.66
