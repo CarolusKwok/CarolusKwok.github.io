@@ -36,8 +36,14 @@
     "layout/archive",
     "layout/sidebar"
 ;
+#main {
+  min-height: 100vh; /* Pushes the footer below the initial screen */
+}
+
 .page__footer {
-  display: none !important;
+  position: relative !important;
+  margin-top: 2em !important;
+  clear: both;
 }
 
 body {
