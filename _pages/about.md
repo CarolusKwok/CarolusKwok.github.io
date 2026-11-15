@@ -1,10 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Carolus Kwok's home on the web!
+As a multidisciplinary environmental scientist, I studies the biogeochemical cycles of various anthropogenic impacts, including
+* Pollution
+* Biodiversity lost (Megafaunas)
+* Extreme weathers (specificially Tropical Cyclones and Extreme Rainfall)
+
+## PhD life at HKU Geography 
