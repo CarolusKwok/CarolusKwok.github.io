@@ -22,6 +22,7 @@ Beyond research, I contribute to local grassroots initiatives addressing climate
 You may also find me volunteering or participating in activities with: 
 * [Kadoorie Farm and Botanical Garden](https://www.kfbg.org/tc/fauna-conservation/forgotten-but-not-gone-lantau-otter-conservation-project/eurasian-otter-basic-biology?utm_source=fb&utm_medium=organic-social&utm_campaign=202611-kcc-otter)
 * [Outdoor Wildlife Learning Hong Kong](https://lantaucecep.owlhk.org/index)
+
 I also enjoy photography and hiking, and I am interested in science communication—especially making environmental research accessible to a wider audience.
 
-**There is no planet B. We will do our best**
+**There is no planet B. We will do our best. 🌏**
