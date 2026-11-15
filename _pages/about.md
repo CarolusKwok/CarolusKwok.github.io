@@ -10,12 +10,12 @@ redirect_from:
 As a wildlife enthusiast, I have been passionate about understanding natural ecosystems and the threats they face since childhood, despite growing up in a concrete jungle.
 I am now a PhD student in Geography at The University of Hong Kong. As a multidisciplinary environmental scientist and geographer, I study how human activities and environmental change affect biogeochemical cycles, focusing on:
 * Pollution
-* Biodiversity loss, particularly the lose of ecosystem engineer and megafaunas
+* Biodiversity loss, particularly the loss of ecosystem engineers and megafauna
 * Extreme weathers, specificially tropical cyclones and extreme rainfall
 
-I am particularly in carbon and nitrogen stocks and emissions.
+I am particularly interested in carbon and nitrogen stocks and emissions.
 
-Beyond research, I contribute to local grassroots initiatives addressing climate change, including:
+Beyond research, I contribute to local grassroots initiatives addressing climate change and environmental justice, including:
 * [Earth Farm](https://earthfarm.hk/en/homepage/)
 * [Cooling Neighbours](https://www.instagram.com/cooling.neighbours.hk/)
 
