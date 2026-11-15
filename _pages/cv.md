@@ -106,7 +106,7 @@ Services and leadership
 
 Skills and Interest
 ======
-* Collaborative Research
+* Collaborative Field- and Lab- based Research
 	- Design and lead field- and lab-based environmental research projects in collaboration.
 * Data analysis
 	- R/ Python/ Fortran/ C++
