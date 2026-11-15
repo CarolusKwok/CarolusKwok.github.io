@@ -66,8 +66,43 @@ Work and Research Experience
 	- Supported Dr Astrid Alex Andersson's research in urban avian ecology 
 	- Monitored behaviour and habitat usage of Yellow-crested cockatoos and other birds in urban areas of Hong Kong
 	- Co-authored [*Human-wildlife interactions in urban Asia*](https://caroluskwok.github.io/publication/2023-08-09-Human-wildlife-interactions-in-urban-Asia)
+
 Services and leadership
 ======
+* **2025 - 2026** -	Volunteer(Ecologist and Remote Sensing Scientist), Earth Farm
+	- Monitor vegetation health using multispectral unmanned aerial vehicle, Agisoft Metashape, and R
+	- Survey biodiversity using infrared camera traps
+	- Assist Earth Farm’s agricultural and landscape decisions in [Food Forest Fellowship](https://earthfarm.hk/en/fellowship/) program
+* **2025 - 2026** -	Volunteer, Hong Kong Bird Watching Society	Shui Hau Ecological Guardian
+	- Conserve and restore Shui Hau's biodiversity through rice paddy agriculture and habitat management
+	- Promote [public awareness](https://www.instagram.com/p/DT2ZY3lCVcg/?img_index=1) of wetland ecosystem biodiversity and ecosystem services
+* **2026** -	Participant, Local Conference of Youth
+* **2025** -	Participant, Local Conference of Youth
+	- Led as CATY participants to prepare the Hong Kong Youth Statement with other youth climate leaders for the United Nations Conference of Children & Youth (20nd - 21st) and Conference of the Parties to the UNFCCC (30th - 31st)
+* **2024 - 2025** -	Volunteer, [Project ‘O’](https://www.instagram.com/p/DKLgJEQNiDb/?img_index=4&obrf=bm42cHd0cDlqeHJq), Kadoorie Farm and Botanic Garden
+	- Conducted monthly Eurasian Otter community surveys in Northwest Hong Kong via camera trapping and scat collection, which [successfully captured the presence of one of the seven locally-endangered otters](https://www.instagram.com/reels/DI-eG7IvUj8/)
+	- Promoted the conservation of Eurasian Otter and wetlands through events in Hong Kong and Shenzhen, murals, and other otter-related products such as otter identification cards and survey booklets
+* **2024** -	Volunteer, 10th International Conference on Marine Pollution and Ecotoxicology
+	- Documented the event to enhance event outreach
+	- Engaged in poster and oral presentations to deepen my understanding of current developments in marine pollution
+* **2022 – 2023** -	Volunteer Tour Guide, Outdoor Wildlife Learning Hong Kong	
+	- Promoted bird and wetland conservation to the general public through 5+ birding ecological tours in Pui O marshlands, as a tour guide of the LCF Lantau Countryside Ecological and Cultural Education Programme
+* **2020 - 2022** -	Tutor/ Casual helper, SCNC 1112 course team, The University of Hong Kong
+	- Taught integrated general science, including earth sciences and environmental sciences each month
+	- Prepared electronic teaching materials to enhance learning experience, e.g. PowerPoint presentations, Kahoot
+* **2021** -	Volunteer, Stephen Hui Geological Museum, The University of Hong Kong
+	- Preserved 20+ museum specimens by photogrammetry to support the museum’s online presence and teaching
+* **2021** -	Volunteer, Hong Kong Dolphin Conservation Society
+	- Designed public artwork exhibition on Lamma Island for dolphin and marine conservation
+* **2020 - 2021** -	General Secretary and acting Academic Secretary, Society of Environmental Science, The Faculty of Science, HKU
+	- Organized 4+ activities to promote environmental science to students
+	- Promoted environmental awareness to students and the general public via social media posts
+	- Assisted communication between the student body and the university
+
+* **2019 - 2020** -	Citizen Science Guide/ Tour Guide, Outdoor Wildlife Learning Hong Kong
+	- Led citizen freshwater invertebrate surveys twice a month to survey mayflies, stoneflies, and caddisflies
+	- Assess Lantau’s freshwater streams’ biodiversity and water quality
+	- Promote and teach environmental science to the general public and citizen scientists
 
 Skills and Interest
 ======
@@ -87,6 +122,7 @@ Skills and Interest
 	- Ecotoxicology/ Pollution Science
 	- Biogeochemical Cycle (C/N efflux, Greenhouse gas emissions)
 	- Global Change
+	- Environmental Justice
 	- Travel
 	- Nature photography
 	- [Civet, especially Masked Palm Civet](https://www.inaturalist.org/observations/22932866)
