@@ -23,9 +23,9 @@ repository               : "CarolusKwok/CarolusKwok.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile/1656311282333.jpg"
   name             : "Carolus Kwok"
-  pronouns         : "she/he/it"
+  pronouns         : "he/she/it"
   bio              : "Researcher at HKU"
   location         : "Hong Kong, China, Earth"
   employer         : "The University of Hong Kong"
