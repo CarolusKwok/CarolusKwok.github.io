@@ -2,7 +2,7 @@
 title: "Rubber-derived chemicals in urban sewer networks and receiving waters Fingerprints, driving factors and ecological impacts"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-15-Rubber-dervided-chemicals
+permalink: /publication/2025-08-15-Rubber-derived-chemicals
 excerpt: ''
 date: 2025-08-15
 venue: 'Water Research'
