@@ -111,11 +111,11 @@ Skills and Interest
 * Data analysis
 	- R/ Python/ Fortran/ C++
 	- QIIME2, Agisoft Metashape, Google Earth Engine, QGIS
-	- statistical analysis, unsupervised machine learning, and visualisation
+	- Statistical analysis, Unsupervised machine learning, Visualisation
 * Laboratory Skills
-	- epifluorescence
-	- biomolecular analysis (e.g. DNA extraction)
-	- chemical analysis (e.g. ICP-MS, UPLC-MS/MS, GC-MS, Elemental Analysis) for pollutant detection and biogeochemical cycle studies
+	- Epifluorescence
+	- Biomolecular analysis (e.g. DNA extraction, PCR, SDS-PAGE)
+	- Chemical analysis (e.g. ICP-MS, UPLC-MS/MS, GC-MS, Elemental Analysis) for pollutant detection and biogeochemical cycle studies
 * Scientific Outreach
 	- Experienced in communicating scientific findings to diverse audiences through reports, presentations, and public engagements, including photography, ecological tours, and volunteer activities
 * Research Interest and Hobbies
