@@ -1,12 +1,30 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae of Carolus Kwok"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+<style type="text/css" rel="stylesheet">
+    .hanging-indent + ul > li {
+        padding-left: 62px;
+        text-indent: -62px;
+    }
+    .hanging-indent + ul > li:not(:last-child) {
+        padding-bottom: 1em;
+    }
+</style>
 
+<style type="text/css" rel="stylesheet">
+    .deep-hanging-indent + ul > li {
+        padding-left: 114px;
+        text-indent: -114px;
+    }
+    .deep-hanging-indent + ul > li:not(:last-child) {
+        padding-bottom: 1em;
+    }
+</style>
 {% include base_path %}
 
 Current Position
